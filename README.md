@@ -143,7 +143,7 @@ for estado in estados:
 
 ## Licencia
 
-Este proyecto está bajo la licencia [Nombre de la Licencia] - consulta el archivo LICENSE para más detalles.
+Este proyecto está bajo la licencia [AGPL-3.0](LICENSE) - consulta el archivo LICENSE para más detalles.
 
 ## Agradecimientos
 Si utilizas este repositorio en tu proyecto, agradecería que incluyeras una mención o un enlace a este repositorio. [CodersVenezuela/Venezuela-JSON](https://github.com/CodersVenezuela/Venezuela-JSON)
