@@ -2,10 +2,18 @@
 
 **Una completa base de datos en formato JSON con la estructura político-territorial de Venezuela: estados, municipios, ciudades y parroquias.**
 
+Basado en el trabajo de [CodersVenezuela/Venezuela-JSON](https://github.com/CodersVenezuela/Venezuela-JSON)
+
 [![GitHub Stars](https://img.shields.io/github/stars/CodersVenezuela/Venezuela-JSON.svg?style=social&label=Stars)](https://github.com/CodersVenezuela/Venezuela-JSON)
 [![GitHub Forks](https://img.shields.io/github/forks/CodersVenezuela/Venezuela-JSON.svg?style=social&label=Forks)](https://github.com/CodersVenezuela/Venezuela-JSON)
 [![GitHub Issues](https://img.shields.io/github/issues/CodersVenezuela/Venezuela-JSON.svg)](https://github.com/CodersVenezuela/Venezuela-JSON/issues)
-<!--[![License](https://img.shields.io/github/license/CodersVenezuela/Venezuela-JSON)](https://www.google.com/search?q=LICENSE) -->
+
+LoboGuardian/Venezuela-JSON
+
+[![GitHub Stars](https://img.shields.io/github/stars/LoboGuardian/Venezuela-JSON.svg?style=social&label=Stars)](https://github.com/CodersVenezuela/Venezuela-JSON)
+[![GitHub Forks](https://img.shields.io/github/forks/LoboGuardian/Venezuela-JSON.svg?style=social&label=Forks)](https://github.com/CodersVenezuela/Venezuela-JSON)
+[![GitHub Issues](https://img.shields.io/github/issues/LoboGuardian/Venezuela-JSON.svg)](https://github.com/CodersVenezuela/Venezuela-JSON/issues)
+[![License](https://img.shields.io/github/license/LoboGuardian/Venezuela-JSON)](https://github.com/LoboGuardian/Venezuela-JSON/LICENSE)
 
 ## ¿Qué contiene?
 
@@ -146,6 +154,6 @@ for estado in estados:
 Este proyecto está bajo la licencia [AGPL-3.0](LICENSE) - consulta el archivo LICENSE para más detalles.
 
 ## Agradecimientos
-Si utilizas este repositorio en tu proyecto, agradecería que incluyeras una mención o un enlace a este repositorio. [CodersVenezuela/Venezuela-JSON](https://github.com/CodersVenezuela/Venezuela-JSON)
+Si utilizas este repositorio en tu proyecto, agradecería que incluyeras una mención o un enlace a este repositorio, basado en [CodersVenezuela/Venezuela-JSON](https://github.com/CodersVenezuela/Venezuela-JSON)
 
 ¡Esperamos que esta base de datos te sea de gran utilidad!
